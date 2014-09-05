@@ -1,6 +1,6 @@
 {
   "name": "simple-reconnect-ws",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple reconnct logic for websockets (to use with browserify)",
   "main": "simple-reconnect-ws",
   "scripts": {
